@@ -1,0 +1,8 @@
+.trCandidate:nth-child(odd){
+
+    background-color:gainsboro;
+}
+
+.trJobAdvert:nth-child(odd){
+    background-color:gainsboro;
+}
